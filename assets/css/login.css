@@ -6,3 +6,43 @@ html, body{
     background: url('../images/login_bg.jpg') no-repeat center;
     background-size: cover;
 }
+.dengluzhuce{
+    width: 400px;
+    height: 310px;
+    background-color: #fff;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -200px;
+    margin-top: -155px;
+}
+.toubiao{
+    height: 60px;
+    background: url("../images/login_title.png") no-repeat center;
+}
+.zhuce{
+    display: none;
+}
+.layui-form{
+    padding: 0 30px;
+}
+.layui-input{
+    margin: 10px 0;
+}
+.rec{
+    position: absolute;
+  right: 30px;
+  margin-top: 10px;
+}
+.layui-form-item{
+    position: relative;
+}
+.layui-form-item i{
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    margin-top: -10px;
+}
+.layui-form-item .layui-input{
+    padding: 0 30px ;
+}
